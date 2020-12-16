@@ -1,2 +1,2 @@
-moderator https://oli-idk.github.io/test/capes/olicape.png
-moderator https://oli-idk.github.io/test/capes/flawingcape.png
+oli https://oli-idk.github.io/test/capes/olicape.png
+flawing https://oli-idk.github.io/test/capes/flawingcape.png
