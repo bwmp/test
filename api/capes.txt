@@ -1,0 +1,2 @@
+oli https://oli-idk.github.io/test/capes/olicape.png
+flawing https://oli-idk.github.io/test/api/flawingcape.png
