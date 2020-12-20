@@ -1,2 +1,3 @@
 oli https://oli-idk.github.io/test/capes/olicape.png
 flawing https://oli-idk.github.io/test/capes/flawingcape.png
+d1a809aa-3d93-4e55-a263-08286fdbb363 https://oli-idk.github.io/test/capes/d1a809aa-3d93-4e55-a263-08286fdbb363.png
