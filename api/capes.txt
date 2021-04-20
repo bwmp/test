@@ -3,3 +3,4 @@ flawing https://oli-idk.github.io/test/capes/flawingcape.png
 d1a809aa-3d93-4e55-a263-08286fdbb363 https://oli-idk.github.io/test/capes/d1a809aa-3d93-4e55-a263-08286fdbb363.png
 907ef003-e88c-4ab1-8612-c640d4f00385 https://oli-idk.github.io/test/capes/907ef003-e88c-4ab1-8612-c640d4f00385.png
 ca6c28cd-d6a5-4079-9eb2-593331d4dfe5 https://oli-idk.github.io/test/capes/ca6c28cd-d6a5-4079-9eb2-593331d4dfe5.png
+Oasis https://oli-idk.github.io/test/capes/ca6c28cd-d6a5-4079-9eb2-593331d4dfe5.png
